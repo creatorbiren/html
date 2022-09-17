@@ -1,0 +1,16 @@
+body {
+    background-color:#FFE9AE;
+     }
+hr   {
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+    border-color: grey;
+    }
+h1,h3 {
+    color: #16213E;
+
+}
+table{
+    font-family: 'Dekko', cursive;
+}
